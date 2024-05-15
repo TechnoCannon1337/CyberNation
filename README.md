@@ -1,2 +1,3 @@
-# CyberNation: Code is Law!
-Government Automation
+# CyberNation:
+## Government Automation
+# Code is Law.
