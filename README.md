@@ -1,6 +1,6 @@
-# CyberNation: Government Automation
-## Code is Law.
-# US GOVERNMENT DATA HUBS
+# CYBERNATION: GOVERNMENT AUTOMATION
+## CODE IS LAW.
+# US Government Data Hubs
 ### [Department of Agriculture](http://www.usda.gov/data/) ([2](http://www.usda.gov/wps/portal/usda/usdahome?navid=DATA_STATISTICS))
 * [Economic Research Service](http://www.ers.usda.gov/data-products.aspx)
 * [Food and Nutrition Service](http://www.fns.usda.gov/data-and-statistics)
