@@ -18,7 +18,9 @@
 		},
 		{
 			"name" : "Sam Franklin",
-			"family" : "Alice Nelson"
+			"family" : [
+				"Alice Nelson"
+			]
 		}
 	]
 }
