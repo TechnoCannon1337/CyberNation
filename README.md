@@ -93,7 +93,7 @@
 * [National Center for Veterans Analysis and Statistics (NCVAS)](http://www.va.gov/vetdata/)
 
 ### [Environmental Protection Agency](http://www.epa.gov/data)
-* [Environmental Database Gateway](https://edg.epa.gov/metadata/catalog/main/home.page_
+* [Environmental Database Gateway](https://edg.epa.gov/metadata/catalog/main/home.page_)
 * [National Renewable Energy Laboratoryn - The Open PV Project](https://openpv.nrel.gov/login.php?dest=data)
 
 ### [General Services Administration](http://www.gsa.gov/data)
