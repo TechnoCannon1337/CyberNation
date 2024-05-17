@@ -1,13 +1,13 @@
 # CYBERNATION: GOVERNMENT AUTOMATION
-NAICS Code: 513210 	 Software Publishers
-NAICS Code: 516210 	 Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers
-NAICS Code: 518210 	 Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services
-NAICS Code: 519290 	 Web Search Portals and All Other Information Services
-NAICS Code: 541511 	 Custom Computer Programming Services
-NAICS Code: 541512 	 Computer Systems Design Services
-NAICS Code: 541519 	 Other Computer Related Services
-NAICS Code: 561410 	 Document Preparation Services
-NAICS Code: 611420 	 Computer Training
+* NAICS Code: 513210 	 Software Publishers
+* NAICS Code: 516210 	 Media Streaming Distribution Services, Social Networks, and Other Media Networks and Content Providers
+* NAICS Code: 518210 	 Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services
+* NAICS Code: 519290 	 Web Search Portals and All Other Information Services
+* NAICS Code: 541511 	 Custom Computer Programming Services
+* NAICS Code: 541512 	 Computer Systems Design Services
+* NAICS Code: 541519 	 Other Computer Related Services
+* NAICS Code: 561410 	 Document Preparation Services
+* NAICS Code: 611420 	 Computer Training
 ![image](https://github.com/TechnoCannon1337/CyberNation/assets/70115917/ae733f29-bf34-444e-a5d1-61f469ef80c1)
 
 ## CODE IS LAW.
