@@ -1,5 +1,5 @@
 # CYBERNATION: GOVERNMENT AUTOMATION
-* NAICS Code: 513210 Software Publishers
+* NAICS Code: 513210 Software Publishers (https://www.census.gov/naics/?input=513210&year=2022&details=513210)
 * NAICS Code: 516210 Media Streaming Distribution & Social Networks Services
 * NAICS Code: 518210 Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services
 * NAICS Code: 519290 Web Search Portals and All Other Information Services
