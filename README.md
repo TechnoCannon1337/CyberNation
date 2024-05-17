@@ -1,16 +1,16 @@
 # CYBERNATION: GOVERNMENT AUTOMATION
-* NAICS Code: 513210 Software Publishers (https://www.census.gov/naics/?input=513210&year=2022&details=513210)
-* NAICS Code: 516210 Media Streaming Distribution & Social Networks Services
-* NAICS Code: 518210 Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services
-* NAICS Code: 519290 Web Search Portals and All Other Information Services
-* NAICS Code: 541511 Custom Computer Programming Services
-* NAICS Code: 541512 Computer Systems Design Services
-* NAICS Code: 541519 Other Computer Related Services
-* NAICS Code: 561410 Document Preparation Services
-* NAICS Code: 611420 Computer Training
+* [NAICS Code: 513210 Software Publishers] (https://www.census.gov/naics/?input=513210&year=2022&details=513210)
+* [NAICS Code: 516210 Media Streaming Distribution & Social Networks Services] (https://www.census.gov/naics/?input=516210&year=2022&details=516210)
+* [NAICS Code: 518210 Computing Infrastructure Providers, Data Processing, Web Hosting, and Related Services] (https://www.census.gov/naics/?input=518210&year=2022&details=518210)
+* [NAICS Code: 519290 Web Search Portals and All Other Information Services] (https://www.census.gov/naics/?input=519290&year=2022&details=519290)
+* [NAICS Code: 541511 Custom Computer Programming Services] (https://www.census.gov/naics/?input=541511&year=2022&details=541511)
+* [NAICS Code: 541512 Computer Systems Design Services] (https://www.census.gov/naics/?input=541512&year=2022&details=541512)
+* [NAICS Code: 541519 Other Computer Related Services] (https://www.census.gov/naics/?input=541519&year=2022&details=541519)
+* [NAICS Code: 561410 Document Preparation Services] (https://www.census.gov/naics/?input=561410&year=2022&details=561410)
+* [NAICS Code: 611420 Computer Training] (https://www.census.gov/naics/?input=611420&year=2022&details=611420)
 
-## CODE IS LAW.
-# US Government Data Hubs
+# CODE IS LAW.
+## US Government Data Hubs
 ### [Department of Agriculture](http://www.usda.gov/data/) ([2](http://www.usda.gov/wps/portal/usda/usdahome?navid=DATA_STATISTICS))
 * [Economic Research Service](http://www.ers.usda.gov/data-products.aspx)
 * [Food and Nutrition Service](http://www.fns.usda.gov/data-and-statistics)
