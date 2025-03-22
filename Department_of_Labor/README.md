@@ -1,4 +1,4 @@
-**  Department of Labor
+# Department of Labor
 
 The Department of Labor (DOL) administers federal labor laws to guarantee workers' rights to fair, safe, and healthy working conditions, including minimum hourly wage and overtime pay, protection against employment discrimination, and unemployment insurance.
 
